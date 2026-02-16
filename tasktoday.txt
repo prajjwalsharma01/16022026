@@ -1,0 +1,37 @@
+What is recursion?
+When function call itself is called recursion it is achived when the fuction call inside the function. 
+
+
+
+Call stack:
+Last called function (functionC) is executed first.
+
+because the last in first out is the stack structure and application. 
+A call stack is a data structure used by a program to keep track of function calls. 
+
+
+Base case vs recursive case
+
+Base case is the condition where the function stop calling to itself or recursion stop . 
+recursive case is the part of the function where function call itself to solve a smaller piece of problem . 
+
+
+Stack overflow :
+A stack overflow occurs when a program uses more stack memory than is available,
+usually because too many function calls are placed on the call stack without returning.
+
+
+Basic problem :
+Print 1 to N using recursion
+Print N to 1
+Factorial
+Fibonacci
+Power (x^n)
+
+
+From LeetCode:
+Climbing Stairs
+Power of Two
+Reverse String
+
+complete .
